@@ -5,7 +5,7 @@ Database used - mongodb
 
 To use - clone the repository and type "npm install" in the command line directory of the cloned repo to install all dependencies
 
-#Note: Read up on environment variables or ".env"
+# Note: Read up on environment variables or ".env"
 
 Important data (e.g. passwords) have been hidden with and environment varialble (.env) which is not accessible to you.
 
