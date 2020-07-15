@@ -7,9 +7,9 @@ To use - clone the repository and type "npm install" in the command line directo
 
 # Note: Read up on environment variables or ".env"
 
-Important data (e.g. passwords) have been hidden with and environment varialble (.env) which is not accessible to you.
+Important data (e.g. passwords) have been put in an environment varialble (.env) and as been put in a ".gitignore" file, which is not accessible to you.
 
 Wherevever you see "process.env.{a name here}", the real data was hidden in an environment variable.
 
-In order to use this, you need to create a ".env" file (read up on ".env" and "dotenv" to understand better).
+In order to use this, you need to create a ".env" file and store your data there (read up on ".env" and "dotenv" to understand better).
 
