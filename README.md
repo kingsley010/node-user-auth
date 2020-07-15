@@ -13,3 +13,4 @@ Wherevever you see "process.env.{a name here}", the real data was hidden in an e
 
 In order to use this, you need to create a ".env" file and store your data there (read up on ".env" and "dotenv" to understand better).
 
+PS: Though the codes are well explained, I am assuming that the person who wants to make use of this repository already has a little knowledge in node.js. If you do not, it will be advisable to do that, in order to understand the codes better. 
